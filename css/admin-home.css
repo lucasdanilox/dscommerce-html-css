@@ -1,0 +1,13 @@
+@import url("styles.css");
+
+#admin-home-section {
+    padding: 20px 0;
+}
+
+.color-admin-section{
+    background-color: var(--dsc-color-font-secondary)
+}
+
+.color-admin-section h1, p ,a{
+    color: var(--dsc-color-font-tertiary);
+}
